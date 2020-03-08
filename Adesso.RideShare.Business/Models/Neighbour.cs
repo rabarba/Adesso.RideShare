@@ -8,23 +8,51 @@ namespace Adesso.RideShare.Business.Models
         {
             var Neighbours = new List<int>();
 
+            var modToFrom = toFrom % 10 == 0 ? 10 : toFrom % 10;
+            var modToWhere = toWhere % 10 == 0 ? 10 : toWhere % 10;
+
             if (toFrom > toWhere)
             {
                 for (int i = toFrom; i >= toWhere; i--)
                 {
-                    if ((toWhere % 10 <= i % 10) && (toFrom % 10 == 0 ? 10 >= i % 10 : toFrom % 10 >= i % 10))
+                    var mod = i % 10 == 0 ? 10 : i % 10;
+
+                    if (modToFrom <= modToWhere)
                     {
-                        Neighbours.Add(i);
+                        if (modToFrom <= mod && modToWhere >= mod)
+                        {
+                            Neighbours.Add(i);
+                        }
+                    }
+                    else
+                    {
+                        if (modToFrom >= mod && modToWhere <= mod)
+                        {
+                            Neighbours.Add(i);
+                        }
                     }
                 }
             }
             else
             {
+
                 for (int i = toFrom; i <= toWhere; i++)
                 {
-                    if ((toFrom % 10 <= i % 10) && (toWhere % 10 == 0 ? 10 >= i % 10 : toWhere % 10 >= i % 10))
+                    var mod = i % 10 == 0 ? 10 : i % 10;
+
+                    if (modToFrom <= modToWhere)
                     {
-                        Neighbours.Add(i);
+                        if (modToFrom <= mod && modToWhere >= mod)
+                        {
+                            Neighbours.Add(i);
+                        }
+                    }
+                    else
+                    {
+                        if (modToFrom >= mod && modToWhere <= mod)
+                        {
+                            Neighbours.Add(i);
+                        }
                     }
                 }
             }
