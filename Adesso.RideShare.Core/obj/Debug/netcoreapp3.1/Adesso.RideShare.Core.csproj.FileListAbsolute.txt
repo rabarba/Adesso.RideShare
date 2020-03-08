@@ -1,0 +1,8 @@
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\bin\Debug\netcoreapp3.1\Adesso.RideShare.Core.deps.json
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\bin\Debug\netcoreapp3.1\Adesso.RideShare.Core.dll
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\obj\Debug\netcoreapp3.1\Adesso.RideShare.Core.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\obj\Debug\netcoreapp3.1\Adesso.RideShare.Core.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\obj\Debug\netcoreapp3.1\Adesso.RideShare.Core.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\bin\Debug\netcoreapp3.1\Adesso.RideShare.Core.pdb
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\obj\Debug\netcoreapp3.1\Adesso.RideShare.Core.dll
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Core\obj\Debug\netcoreapp3.1\Adesso.RideShare.Core.pdb

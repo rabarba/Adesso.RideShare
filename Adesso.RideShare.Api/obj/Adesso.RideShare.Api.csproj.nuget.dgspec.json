@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Api\\Adesso.RideShare.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Api\\Adesso.RideShare.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Api\\Adesso.RideShare.Api.csproj",
+        "projectName": "Adesso.RideShare.Api",
+        "projectPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Api\\Adesso.RideShare.Api.csproj",
+        "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Business\\Adesso.RideShare.Business.csproj": {
+                "projectPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Business\\Adesso.RideShare.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Business\\Adesso.RideShare.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Business\\Adesso.RideShare.Business.csproj",
+        "projectName": "Adesso.RideShare.Business",
+        "projectPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Business\\Adesso.RideShare.Business.csproj",
+        "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Core\\Adesso.RideShare.Core.csproj": {
+                "projectPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Core\\Adesso.RideShare.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CacheManager.Core": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Core\\Adesso.RideShare.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Core\\Adesso.RideShare.Core.csproj",
+        "projectName": "Adesso.RideShare.Core",
+        "projectPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Core\\Adesso.RideShare.Core.csproj",
+        "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ugurc\\source\\repos\\Adesso.RideShare\\Adesso.RideShare.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ugurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CacheManager.Core": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "NetCoreStack.DispatchProxyAsync": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

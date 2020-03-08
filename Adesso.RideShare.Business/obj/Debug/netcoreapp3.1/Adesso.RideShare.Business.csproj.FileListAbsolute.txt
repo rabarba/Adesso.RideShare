@@ -1,0 +1,11 @@
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\bin\Debug\netcoreapp3.1\Adesso.RideShare.Business.deps.json
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\bin\Debug\netcoreapp3.1\Adesso.RideShare.Business.dll
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\obj\Debug\netcoreapp3.1\Adesso.RideShare.Business.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\obj\Debug\netcoreapp3.1\Adesso.RideShare.Business.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\obj\Debug\netcoreapp3.1\Adesso.RideShare.Business.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\bin\Debug\netcoreapp3.1\Adesso.RideShare.Business.pdb
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\bin\Debug\netcoreapp3.1\Adesso.RideShare.Core.dll
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\bin\Debug\netcoreapp3.1\Adesso.RideShare.Core.pdb
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\obj\Debug\netcoreapp3.1\Adesso.RideShare.Business.csproj.CopyComplete
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\obj\Debug\netcoreapp3.1\Adesso.RideShare.Business.dll
+C:\Users\ugurc\source\repos\Adesso.RideShare\Adesso.RideShare.Business\obj\Debug\netcoreapp3.1\Adesso.RideShare.Business.pdb

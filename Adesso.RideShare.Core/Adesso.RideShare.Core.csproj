@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CrossCuttingConcerns\Caching\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CacheManager.Core" Version="1.2.0" />
+    <PackageReference Include="NetCoreStack.DispatchProxyAsync" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
